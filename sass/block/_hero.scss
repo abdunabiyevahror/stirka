@@ -1,0 +1,68 @@
+.wrapper{
+    background-color: rgb(90, 188, 224);
+    height: 1000px;
+    width: 10000px;
+    animation-name:editback ;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+  
+
+}
+@keyframes editback{
+    50%{
+        background-color: rgb(132, 255, 0);
+    }
+    75%{
+        background-color: blue;
+    }
+}
+
+.box{ 
+    background-color: rgb(182, 70, 32);
+    width: 300px;
+    height: 300px;
+    animation-name:editcolor ;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   ;
+   font-style: italic red;
+}   
+@keyframes editcolor{
+    50%{
+        background-color: red;
+        border-radius: 50%;
+    }
+    100%{
+        background-color: yellowgreen;
+    }
+}
+p{
+    animation-name: editharf;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes{
+    50%{
+        
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
