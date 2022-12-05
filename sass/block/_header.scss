@@ -1,1 +1,244 @@
- 
+.maket__header{
+    position: absolute;
+    width: 1520px;
+    height: 640px;
+    left: 0px;
+    top: 0px;
+    background: #EABF9F;
+}
+.info__bad{
+position: absolute;
+width: 705px;
+height: 380px;
+left: 775px;
+top: 260px;
+bottom: 50px;
+}
+.header__button{
+box-sizing: border-box;
+position: absolute;
+width: 180px;
+height: 46px;
+left: 1220px;
+top: 49px;
+background: #FFFFFF;
+border: 2px solid #01384D;
+border-radius: 5px;
+}
+.header__text{
+position: absolute;
+width: 735px;
+height: 210px;
+left: 320px;
+top: 163px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif  ;
+font-style: normal;
+font-weight: 800;
+font-size: 90px;
+line-height: 105px;
+color: #01384D;
+word-spacing: 20px
+}
+.info__tel{
+position: absolute;
+width: 148px;
+height: 21px;
+left: 1034px;
+top: 61px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-style: italic;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+color: #01384D;
+text-decoration: none;
+}
+.button__category{
+position: absolute;
+left: 50px;
+right: 70px;
+top: 100;
+bottom: 100px;
+background: #ffebeb;
+border: 2px solid #000000;
+border-radius: 5px;
+width: 300px;
+height: 50px;
+font-size: 20px;
+font-weight: 250;
+font-style: italic;
+}
+.logo{
+margin-top: 15px;
+width: 300px;
+left: 149px;
+top: 30px;
+}
+.call{
+position: absolute;
+width: 35px;
+height: 21px;
+left: 950px;
+top: 59px;
+font-family: 'Raleway';
+font-style: normal;
+}
+.raqamlar{
+    width: 1522px;
+    height: 300px;
+    background: #C7DFF5;
+    position: absolute;
+    top: 642px;
+}
+.raqamlar__hero1{
+    position: absolute;
+width: 68px;
+height: 141px;
+left: 290px;
+top: 90px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 120px;
+line-height: 141px;
+text-align: center;
+color:#01384D;
+}
+.info__volume{
+    position: absolute;
+    width: 400px;
+    height: 7px;
+    left: 51px;
+    top: 588px;
+    background: #fff;
+    border-radius: 10px;
+    border: #01384d solid 1.5px;
+    background-color : 20% #01384D;padding: 0% 15% ;
+    background-color : 20% #01384D;padding: 0% 15% ;
+    
+}
+.raqamlar__text1{
+    position: absolute;
+    width: 103px;
+    height: 23px;
+    left: 290px;
+    top: 210px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #01384D;
+}
+.raqamlar__hero2{
+position: absolute;
+width: 251px;
+height: 141px;
+left: 520px;
+top: 90px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 120px;
+line-height: 141px;
+text-align: center;
+color: #01384D;
+
+}
+.raqamlar__text2{
+position: absolute;
+width: 161px;
+height: 23px;
+left: 540px;
+top: 210px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+color: #01384D;
+}
+.raqamlar__hero3{
+position: absolute;
+width: 134px;
+height: 141px;
+left: 880px;
+top: 90px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 120px;
+line-height: 141px;
+text-align: center;
+color: #01384D;
+}
+.raqamlar__text3{
+position: absolute;
+width: 109px;
+height: 23px;
+left: 890px;
+top: 210px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+color: #01384D;
+}
+.raqamlar__hero4{
+    position: absolute;
+    width: 67px;
+    height: 141px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 120px;
+    line-height: 141px;
+    text-align: center;
+    color: #01384D;
+    top: 90px;
+    left: 1300px;
+}
+.raqamlar__text4{
+    
+position: absolute;
+width: 148px;
+height: 23px;
+top: 210px;
+left: 1250px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+color: #01384D;
+}
+.wrapper{
+    
+}
+
+
+
+.mahsulot{
+    width: 1520px;
+    height: 400px;
+    background-color: #C7DFF5;
+    margin-top: 900px;
+}
+.mh__text{
+position: absolute;
+width: 479px;
+height: 59px;
+left: 720px;
+top: 995px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 59px;
+color: #01384D;
+}
