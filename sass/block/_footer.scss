@@ -1,6 +1,48 @@
-.nav{
-    width: 1330px;
-    height: 500px;
-    background-color: red;
-    top: 300px;
+.foot{
+    width: 1630px;
+    height: 300px;
+    background-color: #C7DFF5;
+
+}
+.tell{ 
+    
+    position: absolute;
+    width: 200px;
+    height: 60px;
+    left: 661px;
+   top: 20px;
+    background: #01384D;
+    border-radius: 5px;
+}
+.past{
+    width: 1540px;
+    height: 300px;
+    background-color:  #C7DFF5;
+    position: relative;
+    top: 600px;
+    
+
+}
+.hobby{
+    position: absolute;
+width: 300px;
+height: 42px;
+left: 120px;
+top: 30px;    
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 42px;
+color: #01384D;
+}
+.sent{
+    
+    position: absolute;
+    width: 240px;
+    height: 60px;
+    left: 961px;
+   top: 20px;
+    background: #01384D;
+    border-radius: 5px;
 }

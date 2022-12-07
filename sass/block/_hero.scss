@@ -65,6 +65,7 @@ img {
     left: 26px;
     background-color: #FF6B6B;
     border: 3px solid none;
+     
 }
 .mh__hero{
 
@@ -268,13 +269,19 @@ color: #01384D;
     width: 412px;
     height: 425px;
     border: 5px solid #01384D;
+    margin-left: 250px;
 }
 
 .obshiy-card {
     display: flex;
     justify-content: space-evenly;
     top: 3px;
-    left: 200px;
+    left: 800px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
 }
 
 h3 {
@@ -301,20 +308,32 @@ a {
 .img1{
     position: absolute;
     top: 100px;
-    left: 10px;
-    width: 380px;
+    left: 280px;
+    width: 260px;
 }
 .img2{
     position: absolute;
-    top: 100px;
-    left: 420px;
-    width: 380px;
+    top: 105px;
+    left: 610px;
+    width: 260px;
 }
 .img3{
     position: absolute;
     top: 100px;
-    left: 830px;
-    width: 380px;
+    left: 930px;
+    width: 260px;
+}
+
+.card-2 {
+    width: 412px;
+    height: 425px;
+    border: 5px solid #01384D;
+}
+
+.card-3 {
+    width: 412px;
+    height: 425px;
+    border: 5px solid #01384D;
 }
 .adres__hero{
 position: absolute;
